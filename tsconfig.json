@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "lib": ["DOM", "ES2015"],
+    "strict": true,
+    "strictNullChecks": true
+  }
+}
